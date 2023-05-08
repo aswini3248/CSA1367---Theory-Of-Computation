@@ -17,7 +17,7 @@ trans_table[i][j][k]=-1;
 }
 }
 }
-printf("How may states in the NFA with e-moves:");
+printf("How many states in the NFA with e-moves:");
 scanf("%d",&num_states);
 printf("How many symbols in the input alphabet including e :");
 scanf("%d",&num_symbols);
